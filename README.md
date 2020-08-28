@@ -1,6 +1,11 @@
 # learn-swift
 Learn Swift lang
 
+## Getting Started
+
+- https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
+- https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation
+
 ## Resources
 
 ### General Swift
@@ -8,7 +13,7 @@ Learn Swift lang
 - https://ios-course.cornellappdev.com/
 - 
 
-### SwiftUI
+### SwiftUI
 
 - [Stanford – Lecture 1: Course Logistics and Introduction to SwiftUI](https://www.youtube.com/watch?v=jbtqIBpUG7g)
 - [macOS Guide](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
